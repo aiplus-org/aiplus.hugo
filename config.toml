@@ -1,0 +1,4 @@
+baseURL = "https://www.aiplus.ml/"
+languageCode = "en-us"
+title = "A.I.+"
+theme = "air"
